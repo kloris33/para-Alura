@@ -3,7 +3,7 @@
 <header>GlobalQuake Youtube video</header>
 
 
-<h1>M7.4 earthquake detection near San Pedro de Atacama, Antofagasta region, Chile, approximately 120km depth, Intensity MMI VII</h1>
+<h1>M7.4 earthquake detection near San Pedro de Atacama, Antofagasta region, Chile, approximately 120km depth, Intensity MMI VII 18/07/2024</h1>
 <p>by VSCode .html archive</p>
 
 
@@ -14,7 +14,7 @@
 <header>GlobalQuake Youtube video 2</header>
 
 
-<h1>M6.0 earthquake detection near Caucete, San Luis, Argentina, approximately 220km depth, Intensity MMI IV</h1>
+<h1>M6.0 earthquake detection near Caucete, San Luis, Argentina, approximately 220km depth, Intensity MMI IV 21/09/2024</h1>
 <p>by VSCode .html archive</p>
 
 
